@@ -16,6 +16,7 @@ JAVA -
         3. multi - threaded 
         4. distributed
         5. platform independent
+        6. memory management ( garbage collection )
     4. Syntax and functions
     5. java oops 
         1. pillars 
@@ -25,3 +26,17 @@ JAVA -
             4. polymorphism
                 1. runtime polymorphism 
                 2. compile time polymorphism
+    6. java execution
+        1. java development kit(jdk)
+            1. java runtime environment ( jre )
+                1. java virtual machine (jvm)
+                    1. concepts of machine code ( excecutable ) , byte code (.class), source code (.java)( and its relation to platform independent )
+                    2. just in time compiler (jit)
+                2. java interpretor ( java )
+                3. java document generator (Javadoc) 
+                4. java archiver (jar)
+                5. core libraries
+            2. java compiler ( javac )  
+            3. other development tools
+
+
