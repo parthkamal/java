@@ -17,4 +17,4 @@ public class Example extends Parent {
     }
 }
 
-```java
+```
