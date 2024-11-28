@@ -2,7 +2,7 @@
 
 ## OOPS 
     
-1. four main pillars of loops ie **abstraction, encapsulation, polymorphism and inheritance**. for more info ..[four main pillars of oops](https://www.geeksforgeeks.org/four-main-object-oriented-programming-concepts-of-java/)
+1. four main pillars of loops ie **abstraction, encapsulation, polymorphism and inheritance**. for more [info](https://www.geeksforgeeks.org/four-main-object-oriented-programming-concepts-of-java/)
 
 
 ### Abstraction
