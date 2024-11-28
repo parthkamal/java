@@ -2,7 +2,7 @@
 
 
 ## How Java Programs works ? 
-1. how java program works basic execution [steps](https://www.javatpoint.com/internal-details-of-hello-java-program).  
+1. how java program works basic execution [steps](https://www.javatpoint.com/internal-details-of-hello-java-program), _(here the intepretor is also known as JIT ( just in time compiler ))_.
 2. compilation and execution of java program [here](https://www.geeksforgeeks.org/compilation-execution-java-program/).
 3. java platform [independent](https://www.geeksforgeeks.org/java-platform-independent/). 
 
