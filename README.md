@@ -9,3 +9,4 @@
 
 1. **Abstraction** means, hiding the internal details of the method, in java it is achieved by 2 methods ie , _abstract_ class and _interfaces_. for more [info](https://www.geeksforgeeks.org/abstract-classes-in-java/)
 
+2. example of 100% Abstraction achieved through abstract keyword. [here](/abstraction/Examples.md);
