@@ -3,6 +3,11 @@
 
 ## How Java Programs works ? 
 1. how java program works basic execution [steps](https://www.javatpoint.com/internal-details-of-hello-java-program).  
+2. compilation and execution of java program [here](https://www.geeksforgeeks.org/compilation-execution-java-program/).
+3. java platform [independent](https://www.geeksforgeeks.org/java-platform-independent/). 
+
+## basic rules
+1. why single public class and significance of main method ? [here](https://dzone.com/articles/why-single-java-source-file-can-not-have-more-than). 
 
 ## OOPS
 
